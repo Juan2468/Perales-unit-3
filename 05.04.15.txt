@@ -1,0 +1,21 @@
+05.04.15
+ tech-notes
+-A program is a sequence of instructions that makes a computer performed a desired task.           
++prgramming languages+
+ -binary code
+   :binary is a sequenced of 1s and 0s reprensenting on and off switches
+   :all letters and numbers can be represented by a sequence of 1s and 0s 
+-the eniac computer
+   :first programmble computer
+   :had 30,000 swutches that were turned on or off to represent binary code telling the computer what to do
+   :the process was very time consuming
+*as technology advanced, computer instructions could be input from tape and punch cards
+*assembly language was developed so programmers write progrmas in an english-like style
+*compliers are programs that translate english-like program instructions into
+
+*interpreters are prgrams that translate english-like instructions one line at a time.
+*programs are written to solve a program
++programming development+
+-devolping an algorithm
+ :a step by step procedure for accomplishing a task, or solving a problem
+ 
